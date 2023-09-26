@@ -1,1 +1,16 @@
-ffff
+Bonjour, nous sommes une école qu'elle est bien, et nous voulons un outil pour faciliter les contacts entre étudiants.
+Nous aimerions donc pouvoir lister les promotions ainsi que les étudiants qui les composent, 
+mais aussi accéder aux détails d'un étudiant, photo de profil comprise.
+L'accès aux profils serait libre et gratuit.
+Dans un second temps l'outil pourrait servir à éditer les profils et promotions.
+
+
+
+
+|#|En tant que...|Je veux...|Dans le but de...|
+|---|---|---|---|
+|Visiteur|accéder à la liste des promos| ... |
+|Visiteur|accéder aux profils d'autres étudiants| interagir avec eux accéder aux détails de leur profils|
+|Visiteur|envoyer des messages aux autres étudiants| ... |
+|Visiteur|pouvoir éditer mon profil| ... |
+|Administrateur|pouvoir éditer des promotions| ... |
